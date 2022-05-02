@@ -1,0 +1,50 @@
+{
+  "wallets": [
+    [
+      {
+        "name": "Metamask",
+        "icon": "https://duckduckgo.com/i/b08b6e4c.png",
+        "url": "https://metamask.io/",
+        "description": "MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain. It allows users to access their Ethereum wallet through a browser extension or mobile app"
+      },
+      {
+        "name": "Metamask",
+        "icon": "https://duckduckgo.com/i/b08b6e4c.png",
+        "url": "https://metamask.io/",
+        "description": "MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain. It allows users to access their Ethereum wallet through a browser extension or mobile app"
+      }
+    ]
+  ],
+  "exchanges": [
+    [
+      {
+        "name": "Metamask",
+        "icon": "https://duckduckgo.com/i/b08b6e4c.png",
+        "url": "https://metamask.io/",
+        "description": "MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain. It allows users to access their Ethereum wallet through a browser extension or mobile app"
+      },
+      {
+        "name": "Metamask",
+        "icon": "https://duckduckgo.com/i/b08b6e4c.png",
+        "url": "https://metamask.io/",
+        "description": "MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain. It allows users to access their Ethereum wallet through a browser extension or mobile app"
+      },
+      {
+        "name": "Metamask",
+        "icon": "https://duckduckgo.com/i/b08b6e4c.png",
+        "url": "https://metamask.io/",
+        "description": "MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain. It allows users to access their Ethereum wallet through a browser extension or mobile app"
+      }
+    ]
+  ],
+  "tools": [
+    [
+      {
+        "name": "Metamask",
+        "icon": "https://duckduckgo.com/i/b08b6e4c.png",
+        "url": "https://metamask.io/",
+        "description": "MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain. It allows users to access their Ethereum wallet through a browser extension or mobile app"
+      }
+    ]
+  ]
+}

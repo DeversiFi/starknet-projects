@@ -1,0 +1,10 @@
+{
+  "name": "starknet-projects",
+  "version": "1.0.0",
+  "description": "This repository is used to store the configuration file listing all the projects presented on the explorer page of DeversiFi Starknet portal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DeversiFi"
+}
